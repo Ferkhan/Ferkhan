@@ -1,7 +1,7 @@
 ### ¡Hola a todos!
 Soy estudiante de **Ingeniería de Software**.
 
-Me gusta el deporte. Practico *ciclismo, *baloncesto y tenis*.
+Me gusta el deporte. Practico *ciclismo, baloncesto y tenis*.
 
 También la música en general y estoy aprendiendo a tocar *guitarra*.
 
