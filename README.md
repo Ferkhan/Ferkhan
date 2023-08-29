@@ -1,12 +1,3 @@
-### ¡Hola a todos!
-Soy estudiante de **Ingeniería de Software**.
-
-Me gusta el deporte. Practico *ciclismo, baloncesto y tenis*.
-
-También la música en general y estoy aprendiendo a tocar *guitarra*.
-
-Tengo una mascota llamada ***Kira*** y representa mi vida entera.
-
 <hr>
 
 <h1 align = "center">
