@@ -31,10 +31,7 @@
     Java &nbsp
     <img src = "https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" width = "50px">
   </li>
-  <li> 
-    JavaScript &nbsp
-    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width = "20px">
-  </li>
+ 
 </ul>
 
 <hr>
@@ -48,6 +45,11 @@
 <!--
 **Ferkhan/Ferkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ <li> 
+    JavaScript &nbsp
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width = "20px">
+  </li>
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
